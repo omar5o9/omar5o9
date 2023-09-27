@@ -1,16 +1,16 @@
-### Hi there 👋
+# Omar Facundo
 
-<!--
-**omar5o9/omar5o9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Major
+Computer Science at Eastern Washington University
 
-Here are some ideas to get you started:
+## Skills 
+* Java
+* Python
+* C++
+* C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- [Github](github.com/omar5o9)
+
+## Future Job
+
