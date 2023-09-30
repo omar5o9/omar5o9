@@ -3,7 +3,8 @@
 ## Bio
 Computer Science student at Eastern Washington University. I like soccer and playing video games as well as coding 
 
-https://media4.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif?cid=ecf05e478y53snfhg3kkhkgfeuxm69nx65muozigcj45kw6w&ep=v1_gifs_search&rid=giphy.gif&ct=g
+
+![Alt Text](https://media4.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif?cid=ecf05e478y53snfhg3kkhkgfeuxm69nx65muozigcj45kw6w&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## Skills 
 <p align="left">
