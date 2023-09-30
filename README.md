@@ -1,4 +1,4 @@
-# Yo i'm Omar Facundo 🤪
+# Yo I'm Omar Facundo 🤪
 
 ## Bio
 Computer Science student at Eastern Washington University. I like soccer and playing video games as well as coding 
@@ -17,7 +17,7 @@ Computer Science student at Eastern Washington University. I like soccer and pla
 - [Github](github.com/omar5o9)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar5o9&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar5o9&layout=compact&theme=radical)
 
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar5o9&show_icons=true&theme=radical)
 
