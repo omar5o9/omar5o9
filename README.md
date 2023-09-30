@@ -3,7 +3,7 @@
 ## Bio
 Computer Science student at Eastern Washington University. I like soccer and playing video games as well as coding 
 
-<iframe src="https://giphy.com/embed/ramBbsu5kGc8AJHd1h" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/anime-pixel-fighting-ramBbsu5kGc8AJHd1h">via GIPHY</a></p>
+https://media4.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif?cid=ecf05e478y53snfhg3kkhkgfeuxm69nx65muozigcj45kw6w&ep=v1_gifs_search&rid=giphy.gif&ct=g
 
 ## Skills 
 <p align="left">
