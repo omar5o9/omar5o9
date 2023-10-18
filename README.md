@@ -17,7 +17,7 @@ Computer Science student at Eastern Washington University. I like soccer and pla
 
 
 ## Links
-- [Github](github.com/omar5o9)
+- [Github](https://github.com/omar5o9)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar5o9&layout=compact&theme=radical)
